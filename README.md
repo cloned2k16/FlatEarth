@@ -9,3 +9,6 @@
 
 ##### preview ..
 ![](preview.png)
+
+sample pics ..
+![](P6160446b.jpg)
