@@ -6,3 +6,6 @@
 
 #### do you get it, or need some Math ?
 ![](theProblem.png)
+
+##### preview ..
+![](preview.png)
