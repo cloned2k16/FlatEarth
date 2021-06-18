@@ -1,21 +1,16 @@
-body 	{
-	/*
-			background-image: 		url("hires/bg.jpg");
-			background-position: 	center center;
-			overflow: 				hidden;
-			background-size: 		cover;
-	*/		
+body 		{
+	
 			margin: 0px;
 		}
 
-.inputs {
-	background-color : #def;
+.inputs 	{
+			background-color : #def;
 }
 
-.visual {
-	background-color : #ddd;
+.visual 	{
+			background-color : #ddd;
 }
 
-li {
-	list-style-type: none;
+li 		{
+			list-style-type: none;
 }
