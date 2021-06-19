@@ -6,6 +6,9 @@
 I did just solve the Math to make it Mathematically **indiscutible** ..  
 https://www.facebook.com/paolo.lioy.es/posts/6360041794021738
 
+##### how all started ..  
+https://www.facebook.com/paolo.lioy.es/posts/6356360814389836
+
 ### People knew since ever
 their main trick, focus you on the curvature of horizon ..  
 you have been **SCAMED**,  
