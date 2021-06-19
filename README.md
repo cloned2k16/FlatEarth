@@ -18,4 +18,4 @@ sample pics ..
 ![](P6160446b.jpg)
 
 ### Never ever Trusth Math people ..
-![](flawedArg.jpg)
+![](flawedArg.png)
