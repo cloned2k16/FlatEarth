@@ -2,8 +2,9 @@
 ### Mathematical DEMONSTRATION that Earth is FLAT 
 ( well actually not , but .. so.... much BIGer ! )
 
+#### People knew since ever
+their main trick, focus you on the curvature of horizon ..  
 you have been SCAMED,  
-People knew since ever ..  
 just a simple Pythagorean problem to solve ..  
 
 ![](flat-earth-in-one-sinle-shot.png)
