@@ -1,6 +1,6 @@
 # FlatEarth
 ## Mathematical DEMONSTRATION that Earth is FLAT 
-( well actually not , but .. so.... fckng much **BIGGER** ! )
+( well actually, is not , but .. so.... fckng much **BIGGER** ! )
 
 #### in fact you don't even need to do any Math at all ..
 I did just solve the Math to make it Mathematically **indiscutible** ..  
