@@ -1,31 +1,38 @@
+<!DOCTYPE html>
  <html lang="en">
   <head>
 	<title>FLAT</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-	<link href="css/main.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/main.css" />
+	
  </head>
   <body>
    <center>
-    <div id=form class=inputs>
+    <div id=form class="container inputs" >
 	 <form method=GET>
 	  <center>
-	   <ul width=600>
+	   <ul width=600 class="list">
 	    <li>
 	   </li>
 	    <li>
-		 A:  <input id=A  type=text name=A  size=4> Km &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 CD: <input id=CD type=text name=CD size=4> Mt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		     <input type=submit value=CHECK />
+		 <span>A:  <input id=A  type=text name=A  size=4> (Km)</span>
+		 <span>CD: <input id=CD type=text name=CD size=4> (Mt)</span>
 	   </li>
-		 zoom X: <input id=zx class=visual type=text name=zx  size=3> 
-		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 zoom Y: <input id=zy class=visual type=text name=zy  size=3> 
-		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	    <li>
+		 <span>CD Elevation:       <input id=CDE type=text size=4> (Mt)</span> 
+       </li>
+	    <li>
+		 <span>horizon Elevation:  <input id=EE  type=text size=4> (Mt)</span> 
+       </li>
+	    <li>
+		 <span>zoom X: <input id=zx class=visual type=text name=zx  size=3></span> 
+		 <span>zoom Y: <input id=zy class=visual type=text name=zy  size=3></span> 
 	   </li>
+		   <span><input type=submit value=RE-CALC /></span>
+	    <li>
+  	   </li>
 	  </ul>
 	 </center>
 	</form>  
