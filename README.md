@@ -24,3 +24,14 @@ sample pics ..
 to allow to check it at any elevation, problem is, you can't Trust maps either ..  
 so we can further improve it by adding elavation points at the horizon and CD points ..  
 however Water DO NOT lie .. while cartographers do ..  
+
+### NOTICE
+please note that here the point isn't to measure anything ,  
+even if, could be made too by using same Math ..  
+the actual point is DISPROVE that Earth is a little Blue Ball,  
+and the Math error of Expected vs Observed is so.. BIG that,   
+actually you don't even need Math at all, once you get it ..   
+
+the Error is Astronomical ..  
+just like a little Blue Ball sphere exploded to a Flat surface ..  
+you don't have tu be a genius to get it once you get some Math background.  
