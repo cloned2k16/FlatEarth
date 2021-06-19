@@ -1,66 +1,69 @@
-body 	{
-			margin: 0px;
-		}
+body        {
+            margin: 0px;
+        }
 
-.inputs {
-			background-color : #def;
+.inputs     {
+            background-color : #def;
 }
 
-.visual {
-			background-color : #ddd;
+.visual     {
+            background-color : #ddd;
 }
 
-
-.list {
+.list       {
     
-			list-style: 		none;
-			margin: 			0;
-			padding: 			0;
-			display: 			table;
-			white-space: 		nowrap;
-			width: 				100%;
-    
-}
-
-.container {
-    
-			width: 				100%;
-			height: 			100%;
-			background-color: 	#d4f3e3;
-			padding: 			17px;
+            list-style:         none;
+            margin:             0;
+            padding:            0;
+            display:            table;
+            white-space:        nowrap;
+            width:              100%;
     
 }
 
-.list li {
-	list-style-type: 			none;
-    display: 					table-row;
-    color: 						#555;
-
-}
-.list span {
-    margin:				164px;
-
+.container  {
+    
+            width:              100%;
+            height:             100%;
+            background-color:   #d4f3e3;
+            padding:            17px;
+    
 }
 
-.list li:nth-child(3n+2){
-    background-color: #eFA;
-    display: table-row;
-    font-size: 16pt;
-    color: blue;
+.list li    {
+            list-style-type:    none;
+            display:            table-row;
+            color:              #555;
+
 }
-.list li:nth-child(5){
-    background-color: #cdd;
-    display: table-row;
-    font-size: 10pt;
-    color: blue;
+
+.list span  {
+            margin:             164px;
+
 }
-.list li:nth-child(3){
-    display: table-row;
-    font-size: 10pt;
-    color: gray;
+
+.list li:nth-child(3n+2)    {
+            background-color:   #eFA;
+            display:            table-row;
+            font-size:          16pt;
+            color:              blue;
 }
-.list li:nth-child(4){
-    display: table-row;
-    font-size: 10pt;
-    color: gray;
+
+.list li:nth-child(5)       {
+            background-color:   #cdd;
+            display:            table-row;
+            font-size:          10pt;
+            color:              blue;
+}
+
+.list li:nth-child(3)       {
+            display:            table-row;
+            font-size:          10pt;
+            color:              gray;
+}
+
+.list li:nth-child(4)       {
+            display:            table-row;
+            font-size:          10pt;
+            color:              gray;
 }
