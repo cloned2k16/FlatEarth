@@ -1,8 +1,12 @@
 # FlatEarth
-### Mathematical DEMONSTRATION that Earth is FLAT 
+## Mathematical DEMONSTRATION that Earth is FLAT 
 ( well actually not , but .. so.... much BIGer ! )
 
-#### People knew since ever
+#### in fact you don't even need to do any Math at all ..
+I did just solve the Math to make it Mathematically **indiscutible** ..  
+https://www.facebook.com/paolo.lioy.es/posts/6360041794021738
+
+### People knew since ever
 their main trick, focus you on the curvature of horizon ..  
 you have been **SCAMED**,  
 just a simple Pythagorean problem to solve ..  
@@ -43,6 +47,4 @@ in order to get it once you get some Pythagorean Math background.
 ##### works in progress ..
 ![](preview2.png)
 
-#### even Using no Math at All ..
-https://www.facebook.com/paolo.lioy.es/posts/6360041794021738
 
