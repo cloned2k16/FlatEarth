@@ -24,15 +24,13 @@ just a simple Pythagorean problem to solve ..
 #### do you get it, or need some Math ?
 ![](theProblem.png)
 
-check, the simple App here .. https://flatearth.yaoo.net/
+check, the simple App here .. 
+ https://flatearth.yaoo.net/
 
-##### preview ..
-ready to go .. but ..  
-try to figure out it by yourself make things more interesting ..  
-![](preview.png)
+##### works in progress ..
+![](preview3.png)
 
-sample pics ..
-![](P6160446b.jpg)
+
 
 ### Never ever Trusth Math people ..
 ![](flawedArg.png)
@@ -53,8 +51,5 @@ the Error is Astronomical ..
 just like a little Blue Ball sphere exploded to an almost Flat surface ..  
 you don't have to be a genius,  
 in order to get it once, you get some Pythagorean Math background.  
-
-##### works in progress ..
-![](preview3.png)
 
 
