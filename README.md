@@ -36,9 +36,12 @@ check, the simple App here ..
 ![](flawedArg.png)
 
 #### the calculation may be even improved 
-to allow to check it at any elevation, problem is, you can't Trust maps either ..  
-so we can further improve it by adding elavation points at the horizon and CD points ..  
-however Water DO NOT lie .. while cartographers do ..  
+to allow to check it at any elevation,  
+problem is, you can't Trust maps either ..  
+so we can further improve it by adding elavation points  
+at the horizon and CD points ..  
+however Water DO NOT lie ..  
+while cartographers DO ..  
 
 ### NOTICE
 please note that here the point isn't to measure anything ,  
