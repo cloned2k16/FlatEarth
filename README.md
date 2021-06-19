@@ -24,7 +24,7 @@ just a simple Pythagorean problem to solve ..
 #### do you get it, or need some Math ?
 ![](theProblem.png)
 
-check, the simple App here .. https://cloned2k16.github.io/FlatEarth/
+check, the simple App here .. https://flatearth.yaoo.net/
 
 ##### preview ..
 ready to go .. but ..  
