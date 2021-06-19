@@ -1,6 +1,6 @@
 # FlatEarth
 ### Mathematical DEMONSTRATION that Earth is FLAT 
-( well actually not , but .. soooo much BIGer ! )
+( well actually not , but .. so.... much BIGer ! )
 
 you have been SCAMED,  
 People knew since ever ..  
