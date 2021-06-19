@@ -55,6 +55,6 @@ you don't have to be a genius,
 in order to get it once, you get some Pythagorean Math background.  
 
 ##### works in progress ..
-![](preview2.png)
+![](preview3.png)
 
 
