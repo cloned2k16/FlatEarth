@@ -42,3 +42,7 @@ in order to get it once you get some Pythagorean Math background.
 
 ##### works in progress ..
 ![](preview2.png)
+
+#### even Using no Math at All ..
+https://www.facebook.com/paolo.lioy.es/posts/6360041794021738
+
