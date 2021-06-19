@@ -4,7 +4,7 @@
 
 #### People knew since ever
 their main trick, focus you on the curvature of horizon ..  
-you have been SCAMED,  
+you have been **SCAMED**,  
 just a simple Pythagorean problem to solve ..  
 
 ![](flat-earth-in-one-sinle-shot.png)
