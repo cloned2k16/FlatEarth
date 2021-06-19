@@ -53,6 +53,6 @@ actually you don't even need Math at all, once you get it ..
 the Error is Astronomical ..  
 just like a little Blue Ball sphere exploded to an almost Flat surface ..  
 you don't have to be a genius,  
-in order to get it once, you get some Pythagorean Math background.  
+in order to get it, once you get some Pythagorean Math background.  
 
 
