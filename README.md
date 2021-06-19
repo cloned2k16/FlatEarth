@@ -35,5 +35,5 @@ and the Math error of Expected vs Observed is so.. BIG that,
 actually you don't even need Math at all, once you get it ..   
 
 the Error is Astronomical ..  
-just like a little Blue Ball sphere exploded to a Flat surface ..  
+just like a little Blue Ball sphere exploded to an almost Flat surface ..  
 you don't have tu be a genius to get it once you get some Math background.  
