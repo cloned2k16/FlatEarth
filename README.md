@@ -12,6 +12,8 @@ just a simple Pythagorean problem to solve ..
 ![](theProblem.png)
 
 ##### preview ..
+ready to go .. but ..  
+try to figure out it by yourself make things more interesting ..  
 ![](preview.png)
 
 sample pics ..
