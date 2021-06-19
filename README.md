@@ -38,3 +38,6 @@ the Error is Astronomical ..
 just like a little Blue Ball sphere exploded to an almost Flat surface ..  
 you don't have to be a genius,  
 in order to get it once you get some Pythagorean Math background.  
+
+##### works in progress ..
+![](preview2.png)
