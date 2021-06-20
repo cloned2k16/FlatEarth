@@ -16,6 +16,18 @@ just a simple Pythagorean problem to solve ..
 
 #### in fact you don't even need to do any Math at all ..
 I did just solve the Math to make it Mathematically **indisputable** ..  
+precision here is not really important,  
+Gibraltar should fall below the orizon more than one half from such distance
+and Ceuta shouldn't be visible at all given ~500 Mt should fall below the horizon at such distance ..
+not to mention they keep similar heigh despite being at different scale,  
+and that's all you see in the picture .. 
+different scale of two similar objects at very different distances ... 
+
+there's just NO WAY to explain what you SEE by a 3D point of view on a Little Blue Ball ..  
+no Math required, to see it .. just Pythagorean knowledges .. 
+no flawed assumptions on SUN shadows 
+( the way fucking brainwahed still pretend measure the Earth Radius )
+
 
 ## so what this Actually Means 
 ( this goes for you Fact Checkers mindset , or programmed as such )
