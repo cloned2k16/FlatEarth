@@ -26,9 +26,9 @@ different scale of two similar objects at very different distances ..
 on the exact SAME plane ..  **FLAT**  
 
 there's just NO WAY to explain what you SEE by a 3D point of view on a Little Blue Ball ..  
-no Math required, to see it .. just Pythagorean knowledges .. 
-no flawed assumptions on SUN shadows 
-( the way fucking brainwahed still pretend measure the Earth Radius )
+no Math required, to see it .. just Pythagorean knowledges ..  
+no flawed assumptions on SUN shadows  
+( the way fucking brainwahed still pretend measure the Earth Radius )  
 
 
 ## so what this Actually Means 
