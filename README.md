@@ -19,7 +19,8 @@ I did just solve the Math to make it Mathematically **indisputable** ..
 
 precision here is not really important,  
 Gibraltar should fall below the orizon more than one half from such distance  
-and Ceuta shouldn't be visible at all given ~500 Mt should fall below the horizon at such distance ..  
+and Ceuta shouldn't be visible at all  
+given ~500 Mt of his base should fall below the horizon at such distance ..  
 not to mention they keep similar heigh despite being at different scale,  
 and that's all you see in the picture ..  
 different scale of two similar objects at very different distances ..    
