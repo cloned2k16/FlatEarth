@@ -14,7 +14,7 @@ just a simple Pythagorean problem to solve ..
 
 ![](flat-earth-in-one-sinle-shot.png)
 
-#### in fact you don't even need to do any Math at all ..
+### in fact you don't even need to do any Math at all ..
 I did just solve the Math to make it Mathematically **indisputable** ..  
 
 precision here is not really important,  
