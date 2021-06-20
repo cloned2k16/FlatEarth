@@ -1,6 +1,6 @@
 # FlatEarth
 ## Mathematical DEMONSTRATION that Earth is FLAT 
-( well actually, is not , but .. so.... fckng much **BIGGER** ! )  
+( well actually, is not , but .. so.... fucking **BIGGER** ! )  
 
 ( BTW, for those Little Blue Ball Believers,  
   that's your very chance to stop Flat Earth ..   
