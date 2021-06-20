@@ -27,7 +27,7 @@ given ~500 Mt from the base mountain should fall below the horizon at such dista
    they should disapear just few Km after doubling horizon distance .. )  
 
 ###### to be exact on an exagerated Earth Radius 6 storey tall building at 20 km !!  
-![](Screenshot_47.png)
+![the shot](Screenshot_47.png)
 
 not to mention they keep similar heigh despite being at different scale,  
 and that's all you see in the picture ..  
@@ -39,6 +39,24 @@ no Math required, to see it .. just Pythagorean knowledges ..
 no flawed assumptions on SUN shadows  
 ( the way fucking brainwahed PPL, still pretend to measure the Earth Radius , ridiculous :D :D :D )  
 
+## to get a rough aproximation ( while still good enough )
+by just using your telephone calculator
+```javascript
+let pov       = R + CD/1000
+    horizon   = sqrt ( pov^2 - R^2 )
+let far       = distance - horizon    
+    AZ        = sqrt ( far + R ) - R
+```
+which solves in (eg.) ..  
+```javascript
+   pov        = 6379+2/1000
+   ~ 5.051    = sqrt ( 6379.002 ^2 - 6379 ^2 ) 
+   far        = 20 - 5.051
+   ~0.017516  = sqrt ( 14.949   ^2 + 6379 ^2 ) -6379
+   AZ         = 0.017516 * 1000
+   
+   ~ 17.516   ( Meters )
+```
 
 ## so what this Actually Means 
 ( this goes for you Fact Checkers mindset , or programmed as such )
