@@ -44,7 +44,8 @@ others evidences looks like pointing to Earth being a Sphere ..
 
 fact is your universe is completely based on assumptions we are on a Blue Ball  
 of about 6379 Km Radius since long long time ago .. while this was made in turn on other assumptions .. 
-so mathematically reduces all to Bullshit once proved the curvature doesn't exist .. ( coherent assumption would be , is **FLAT** )
+so mathematically reduces all to Bullshit once proved the curvature doesn't exist ..  
+( coherent assumption would be , is **FLAT** )
 
 once proved the Radius ( if ever one exist ) **MUST** be at least way **BIGGER**  
 to go mathematically undetectable at this point  
