@@ -69,7 +69,7 @@ so then ...
    
    ~ 1.9997   ( Meters )
    
-   ( F == CD by definition ! )
+   ( FH == CD by definition ! )
 ```
 
 
