@@ -23,7 +23,8 @@ and Ceuta shouldn't be visible at all
 given ~500 Mt of his base should fall below the horizon at such distance ..  
 
 ( please notice that in both you can still see very low height perfiles on both sides ..  
-   and they shouldn't be there NO WAY !! )
+   and they shouldn't be there NO WAY !!  
+   they should disapear just few Km after doubling horizon distance .. )
 
 not to mention they keep similar heigh despite being at different scale,  
 and that's all you see in the picture ..  
