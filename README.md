@@ -68,6 +68,8 @@ so then ...
    FH         = 0.001999 * 1000
    
    ~ 1.9997   ( Meters )
+   
+   ( F == CD by definition ! )
 ```
 
 
