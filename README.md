@@ -94,7 +94,7 @@ while cartographers DO ..
 
 ### NOTICE
 please note that here the point isn't to measure anything ,  
-even if, could be possible too by using same Math ad some accurate camera sensor ..  
+even if, could be possible too by using same Math ad some accurate camera ..  
 the actual point is DISPROVE that Earth is a little Blue Ball,  
 and the Math error of Expected vs Observed is so.. BIG that,   
 actually you don't even need Math at all, once you get it ..   
