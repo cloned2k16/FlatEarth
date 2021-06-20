@@ -82,7 +82,7 @@ It means from now on you can MATHEMATICALLY assume either Earth is **FLAT** or w
 there are plenty of disputed theories tath make sense of being **FLAT**  
 ( just limited by imagination )  
 1) A divine Snowball which God plays with ..  
-2) A spache Rock having a FLAT surface flying around in the universe ..   
+2) A space Rock having a FLAT surface flying around in the universe ..   
 3) A Simulation Bubble ..  ( Either for God or some Entity to play with )
 4) A Spaceship containing us in a Echosystem Bubble 
 5) A crater on the Moon ( to fully understand which you need to understand e=mc^2 better than Einsten himself )  
