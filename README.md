@@ -40,7 +40,7 @@ no flawed assumptions on SUN shadows
 ( the way fucking brainwahed PPL, still pretend to measure the Earth Radius , ridiculous :D :D :D )  
 
 ## to get a rough aproximation  
-( while still more than good enough, for most real cases )  
+( while still more than good enough, for **any real case** )  
 by just using your telephone calculator ..  
 ```javascript
 let pov       = R + CD / 1000
