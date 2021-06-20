@@ -29,7 +29,7 @@ given ~500 Mt of his base should fall below the horizon at such distance ..
 not to mention they keep similar heigh despite being at different scale,  
 and that's all you see in the picture ..  
 different scale of two similar objects at very different distances ..    
-on the exact SAME plane ..  **FLAT**  
+on the exact EXACT SAME plane ..  **FLAT**  
 
 there's just NO WAY to explain what you SEE by a 3D point of view on a Little Blue Ball ..  
 no Math required, to see it .. just Pythagorean knowledges ..  
