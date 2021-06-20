@@ -20,7 +20,7 @@ I did just solve the Math to make it Mathematically **indisputable** ..
 precision here is not really important,  
 Gibraltar should fall below the orizon more than one half from such distance  
 and Ceuta shouldn't be visible at all  
-given ~500 Mt of his base should fall below the horizon at such distance ..  
+given ~500 Mt from the base mountain should fall below the horizon at such distance ..  
 
 ( please notice that in both you can still see very low height perfiles on both sides ..  
    and they shouldn't be there NO WAY !!  
