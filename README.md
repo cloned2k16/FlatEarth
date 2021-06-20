@@ -16,6 +16,7 @@ just a simple Pythagorean problem to solve ..
 
 #### in fact you don't even need to do any Math at all ..
 I did just solve the Math to make it Mathematically **indisputable** ..  
+
 precision here is not really important,  
 Gibraltar should fall below the orizon more than one half from such distance
 and Ceuta shouldn't be visible at all given ~500 Mt should fall below the horizon at such distance ..
