@@ -44,9 +44,9 @@ no flawed assumptions on SUN shadows
 by just using your telephone calculator ..  
 ```javascript
 let pov       = R + CD / 1000
-    horizon   = sqrt ( pov^2 - R^2 )
+    horizon   = sqrt ( pov ^2 - R ^2 )
 let far       = distance - horizon    
-    AZ        = sqrt ( far + R ) - R
+    AZ        = sqrt ( far ^2 + R ^2 ) - R
 ```
 which solves in (eg.) ..  
 ```javascript
