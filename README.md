@@ -58,6 +58,18 @@ which solves in (eg.) ..
    
    ~ 17.516   ( Meters )
 ```
+so then ...
+```javascript
+   F          = horizon * 2
+   far        = F - horizon
+   FH         = sqrt ( far ^2 + R ^2 ) - R
+   
+   ~ 0.0019997= sqrt ( 5.051 ^ 2 + 6379 ^2 )  
+   FH         = 0.001999 * 1000
+   
+   ~ 1.9997   ( Meters )
+```
+
 
 ## so what this Actually Means 
 ( this goes for you Fact Checkers mindset , or programmed as such )
