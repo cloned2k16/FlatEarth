@@ -8,7 +8,7 @@
 
 
 #### in fact you don't even need to do any Math at all ..
-I did just solve the Math to make it Mathematically **indiscutible** ..  
+I did just solve the Math to make it Mathematically **indisputable** ..  
 https://www.facebook.com/paolo.lioy.es/posts/6360041794021738
 
 ##### how all started ..  
