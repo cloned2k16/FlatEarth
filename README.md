@@ -48,7 +48,7 @@ let pov       = R + CD / 1000
 let far       = distance - horizon    
     AZ        = sqrt ( far ^2 + R ^2 ) - R
 ```
-which solves in (eg.) ..  
+which solves in (eg.) .. 
 ```javascript
    pov        = 6379+2/1000
    ~ 5.051    = sqrt ( 6379.002 ^2 - 6379 ^2 ) 
@@ -58,6 +58,8 @@ which solves in (eg.) ..
    
    ~ 17.516   ( Meters )
 ```
+(notice that in the image above pov was 1.65 while here is set at 2 meters )   
+
 so then ...
 ```javascript
    F          = horizon * 2
