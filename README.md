@@ -39,10 +39,11 @@ no Math required, to see it .. just Pythagorean knowledges ..
 no flawed assumptions on SUN shadows  
 ( the way fucking brainwahed PPL, still pretend to measure the Earth Radius , ridiculous :D :D :D )  
 
-## to get a rough aproximation ( while still good enough )
-by just using your telephone calculator
+## to get a rough aproximation  
+( while still more than good enough, for most real cases )  
+by just using your telephone calculator ..  
 ```javascript
-let pov       = R + CD/1000
+let pov       = R + CD / 1000
     horizon   = sqrt ( pov^2 - R^2 )
 let far       = distance - horizon    
     AZ        = sqrt ( far + R ) - R
@@ -52,7 +53,7 @@ which solves in (eg.) ..
    pov        = 6379+2/1000
    ~ 5.051    = sqrt ( 6379.002 ^2 - 6379 ^2 ) 
    far        = 20 - 5.051
-   ~0.017516  = sqrt ( 14.949   ^2 + 6379 ^2 ) -6379
+   ~ 0.017516 = sqrt ( 14.949   ^2 + 6379 ^2 ) -6379
    AZ         = 0.017516 * 1000
    
    ~ 17.516   ( Meters )
