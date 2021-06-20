@@ -24,7 +24,10 @@ given ~500 Mt from the base mountain should fall below the horizon at such dista
 
 ( please notice that in both you can still see very low height perfiles on both sides ..  
    and they shouldn't be there NO WAY !!  
-   they should disapear just few Km after doubling horizon distance .. )
+   they should disapear just few Km after doubling horizon distance .. )  
+
+###### to be exact on an exagerated Earth Radius 6 storey tall building at 20 km !!  
+![](Screenshot_47.png)
 
 not to mention they keep similar heigh despite being at different scale,  
 and that's all you see in the picture ..  
