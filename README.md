@@ -28,7 +28,7 @@ on the exact SAME plane ..  **FLAT**
 there's just NO WAY to explain what you SEE by a 3D point of view on a Little Blue Ball ..  
 no Math required, to see it .. just Pythagorean knowledges ..  
 no flawed assumptions on SUN shadows  
-( the way fucking brainwahed still pretend measure the Earth Radius )  
+( the way fucking brainwahed PPL, still pretend to measure the Earth Radius , ridiculous :D :D :D )  
 
 
 ## so what this Actually Means 
