@@ -100,8 +100,9 @@ with stupid arguments like,
 others evidences looks like pointing to Earth being a Sphere ..   
 ( that's just your immagination, and years of lies you were told that let you **BELIEVE** so )
 
-fact is your universe is completely based on assumptions we are on a Blue Ball  
-of about 6379 Km Radius since long long time ago .. while this was made in turn on other assumptions .. 
+fact is, your universe is completely based on flawed assumptions like we are on a Blue Ball  
+of about 6379 Km Radius since long long time ago ..  
+while this was made in turn on other assumptions .. 
 so mathematically reduces all to Bullshit once proved the curvature doesn't exist ..  
 ( coherent assumption would be , is **FLAT** )
 
