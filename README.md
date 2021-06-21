@@ -13,6 +13,13 @@ focus you on the curvature on the horizontal line of horizon ..
 you have been **SCAMED**,  
 just a simple Pythagorean problem to solve ..  
 
+( BTW, just ask them how, they measure the Earth Radius,  
+  still with shadows ? ( Arrogantly assuming the position of the Sun )  
+  our Space Station on the Moon ?  
+  any Mars Rover ?  
+  or what ?  
+  :D :D :D )
+
 ![](flat-earth-in-one-sinle-shot.png)
 
 ### in fact you don't even need to do any Math at all ..
