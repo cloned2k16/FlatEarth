@@ -142,10 +142,7 @@ https://www.facebook.com/paolo.lioy.es/posts/6356360814389836
 #### do you get it, or need some Math ?
 ![](theProblem.png)
 
-check, the simple App here .. 
- https://flatearth.yaoo.net/
-
-##### works in progress ..
+check, the simple App here .. https://flatearth.yaoo.net/
 ![](preview3.png)
 
 
@@ -173,4 +170,40 @@ just like a little Blue Ball sphere exploded to an almost Flat surface ..
 you don't have to be a genius, in order to get it,  
 once you get some Pythagorean Math background.  
 
+## Conceptual Experiment .. for Little Blue Ball Lovers
+( easier than measure the Earth Radius with shadows,  
+  while much more accurate ..
+  (can't stand stupidity .. :D :D :D ))
+  
+To avoid any futher, pointless discussion aboud angels sex ..  
+you can just do a very simple experiment,   
+actually in this case, you don't even  need a reference on water,  
+however it's easier to understand intuitively,  
+
+lets say you have a target similar to the picture below,  
+
+using a baloon and filming your target while rising from ground up to ~323 mt  ( not necessarily this high )  
+you should get that the target , just rise up from horizon,  
+from being **supposedly** submerged ~317 mt below horizon ..  
+up to just ~80 mt below, when baloon reach ~80 mt  ( your target is at F point )  
+
+now , it should still rise up till reaching 323 mt  
+( your horizon there is at about 64km )  
+
+so .. IF and only IF,  
+it do progressively rise up from ground ( horizon ) , **congratulation is a sphere**  
+( you may even calculate the **Radius** this way, avoiding making arrogant so flawed assumption on the Sun position )  
+
+otherwise,  
+you gotta accept it ( like ti or not )  
+**it's fucking FLAT !!**  
+( much more likely way way bigger )  
+
+please note that in this experiment the depth doesn't change really much  
+( less than 1 meter in depth swing, from ground up to 323 mt ) ..  
+it only changes perspective , while no so much either ..  
+the actual tricky part reside in keep your camera pointing at the target ..  
+while not necesarily either to pointi exactly,  
+just fully visible target apear in the image ..  
+![](Gib64km.jpg)
 
