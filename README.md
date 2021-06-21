@@ -7,6 +7,8 @@
   just prove your **BELIEF** are right ..  
   easy isn't ¿? ) 
 
+![](Screenshot_49.png)
+
 ### People knew since ever
 their main trick,  
 focus you on the curvature on the horizontal line of horizon ..  
