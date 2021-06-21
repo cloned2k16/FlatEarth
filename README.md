@@ -8,7 +8,7 @@
   easy isn't ¿? ) 
 
 ### People knew since ever
-their main trick, focus you on the curvature of horizon ..  
+their main trick, focus you on the curvature on the horizontal horizon ..  
 you have been **SCAMED**,  
 just a simple Pythagorean problem to solve ..  
 
