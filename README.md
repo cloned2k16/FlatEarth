@@ -18,7 +18,7 @@ show something rising as it should on the horizon ( not perspective scaling )<br
 and you made it ..<br>
 you got your loved Little Blue Ball DEMONSTRATED<br>
 it´s pretty easy .. just do it .. don't waste your time either ..<br>
-otherwise, remember your Blue Big Ball keep being just a flawed assumption<br>
+otherwise, remember your Little Blue Ball, keep being just a flawed assumption<br>
 <sub>( fake NotASpaceAgency or similar footages, doesn't count :D :D :D )<br>
 </sup>
 
