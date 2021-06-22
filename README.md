@@ -220,6 +220,6 @@ please note that in this experiment the depth doesn't change really much
 it only changes perspective , while no so much either ..  
 the actual tricky part reside in keep your camera pointing at the target ..  
 while not necesarily either to pointi exactly,  
-just fully visible target apear in the image ..  
+just keep fully visible target to apear in the image ..  
 ![](Gib64km.jpg)
 
