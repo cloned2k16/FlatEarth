@@ -7,6 +7,22 @@
   just prove your **BELIEF** are right ..  
   easy isn't ¿? ) 
 
+###### NOTICE
+<sup>
+to avoid wasting my time with some stupid fact-check mindset<br>  
+just show any single footage of rising 'objects' on the orizon,<br>
+( we are in 2021 shouldn't be dificul, check the conceptual experiment at the bottom<br>
+you can even use a drone .. so make it once and for all ..)
+<br><br>
+show something rising as it should on the horizon ( not perspective scaling )<br>
+and you made it ..<br>
+you got your loved Little Blue Ball DEMONSTRATED<br>
+it´s pretty easy .. just do it .. don't waste your time either ..<br>
+otherwise, remember your Blue Big Ball keep being just a flawed assumption<br>
+<sub>( fake NotASpaceAgency or similar footages, doesn't count :D :D :D )<br>
+</sup>
+
+..  
 ![](Screenshot_49.png)
 
 ### People knew since ever
