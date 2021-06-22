@@ -203,7 +203,8 @@ you should get that the target , just rise up from horizon,
 from being **supposedly** submerged ~317 mt below horizon ..  
 up to just ~80 mt below, when baloon reach ~80 mt  ( your target is at F point )  
 
-now , it should still rise up till reaching 323 mt, above then just perspective and scale apply
+now , it should still rise up till reaching 323 mt,  
+above then just perspective and scale apply  
 ( your horizon there is at about 64km )  
 
 so .. IF and only IF,  
