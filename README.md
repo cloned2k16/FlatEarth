@@ -223,5 +223,7 @@ the actual tricky part reside in keep your camera pointing at the target ..
 while not necesarily either to pointi exactly,  
 just keep fully visible target to apear in the image ..  
 ![](Gib64km.jpg)
-  ![](rising.png)
+![curvatures by risng pov and by moving away](rising.png)
 
+#### Alternative using a Boat ..
+![by boat](horizontalExperiment.png)  
