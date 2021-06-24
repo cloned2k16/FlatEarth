@@ -1,9 +1,16 @@
 body        {
-            margin: 0px;
-        }
+            margin: 			0px;
+			direction: 			ltr;
+}
+
+
+input 		{
+			text-align: 		right;
+			width:				10%;
+}
 
 .inputs     {
-            background-color : #def;
+			background-color : #afe;
 }
 
 .visual     {
