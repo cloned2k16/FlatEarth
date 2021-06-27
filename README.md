@@ -231,4 +231,4 @@ just keep fully visible target to apear in the image ..
 #### yet another single shot, demonstrating (alone) Earth is Flat .. 
   just do the Math .. 😎
   
-![Ustica](ustica.png)    
+![Ustica](ustica1.png)    
