@@ -227,3 +227,8 @@ just keep fully visible target to apear in the image ..
 
 #### Alternative using a Boat ..
 ![by boat](horizontalExperiment.png)  
+
+#### yet another single shot, demonstrating (alone) Earth is Flat .. 
+  just do the Math .. 😎
+  
+![Ustica](ustica.png)    
