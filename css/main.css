@@ -8,6 +8,13 @@ input 		{
 			text-align: 		right;
 			width:				10%;
 }
+input[type=submit]{
+			text-align: 		center;
+			margin-top:        10px;
+			border:1 none;
+		cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
 
 .inputs     {
 			background-color : #afe;
