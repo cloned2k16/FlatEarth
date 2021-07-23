@@ -234,4 +234,4 @@ just keep fully visible target to apear in the image ..
 ![Ustica](ustica1.png)    
 
 ··· NO MATH Required ..  
-![Palazzo Donn'Anna](Palazzo DonnAnna.png)    
+![Palazzo Donn'Anna](PalazzoDonnAnna.png)    
