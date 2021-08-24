@@ -36,8 +36,9 @@ just a simple Pythagorean problem to solve ..
   our Space Station on the Moon ?  
   any Mars Rover ?  
   or what ?  
-  :D :D :D )
-
+  :D :D :D )  
+  
+![another perspective](FLAT.gif)
 ![](flat-earth-in-one-sinle-shot.png)
 
 ### in fact you don't even need to do any Math at all ..
