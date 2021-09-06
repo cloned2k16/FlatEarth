@@ -38,6 +38,7 @@ just a simple Pythagorean problem to solve ..
   or what ?  
   :D :D :D )  
   
+![from altitude](FLAT3.gif)  
 ![another perspective](FLAT2.gif)
 ![another perspective](FLAT.gif)
 ![](flat-earth-in-one-sinle-shot.png)
