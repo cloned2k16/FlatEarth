@@ -41,8 +41,9 @@ just a simple Pythagorean problem to solve ..
 ![from altitude](FLAT3.gif)  
 ![another perspective](FLAT2.gif)
 ![another perspective](FLAT.gif)
-![](flat-earth-in-one-sinle-shot.png)
-
+![paseo marittimo Marbella](paseoMarittimoMarbella.png)
+![first](flat-earth-in-one-sinle-shot.png)
+  
 ### in fact you don't even need to do any Math at all ..
 I did just solve the Math to make it Mathematically **indisputable** ..  
 
