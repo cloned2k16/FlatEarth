@@ -38,6 +38,9 @@ just a simple Pythagorean problem to solve ..
   or what ?  
   :D :D :D )  
   
+  ### BTW ..  
+![sun distance](apparent_SUN_distance.png)  
+  
 ![from altitude](FLAT3.gif)  
 ![another perspective](FLAT2.gif)
 ![another perspective](FLAT.gif)
