@@ -8,11 +8,11 @@
   easy isn't ¿? ) 
 ### my Flat Earth model ..
 this is a very preliminary sketch of my model which account for Polaris observation    
-and put thogheter anything already deducted by the fact Earth is measureable FLAT  
+and put thogheter anything already deducted by the fact Earth is (measureable) FLAT  
 in the sketch isn't shown now but whats labeled as image of the moon is the accumulated image   
 which account for moon phases while the images we see is a just another projection coming from toroidal field  
 the only thing left to investigate is whether or not the sun is an indepent source or also coming from the moon  
-the rest already should account for anything we my observe from within   
+the rest already should account for anything we may observe from within   
 and ofcourse what we see as moon can be much more that just we can see   
 but that would be impossible to deduce from within  
 
